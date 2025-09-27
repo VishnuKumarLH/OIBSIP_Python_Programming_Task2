@@ -17,7 +17,7 @@ A **Graphical BMI Calculator** built using **Python (Tkinter, SQLite, Matplotlib
 ---
 
 ## 🖼️ Demo Video
-🎥 [Watch Demo Video](https://youtu.be/your-demo-video-link)  
+🎥 [./demo_img](https://youtu.be/your-demo-video-link)  
 *(Replace the above link with your actual uploaded video on YouTube/Drive/LinkedIn)*
 
 ---
