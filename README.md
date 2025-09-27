@@ -24,10 +24,10 @@ A **Graphical BMI Calculator** built using **Python (Tkinter, SQLite, Matplotlib
 
 ## 📸 Screenshots
 ### BMI Calculation  
-![BMI Calculation Screenshot](https://via.placeholder.com/700x400?text=BMI+Calculator+Screenshot)  
+![BMI Calculation Screenshot](./dashboard)  
 
 ### BMI Trend Graph  
-![BMI Graph Screenshot](https://via.placeholder.com/700x400?text=BMI+Graph+Screenshot)  
+![BMI Graph Screenshot](./graph)  
 
 ---
 
