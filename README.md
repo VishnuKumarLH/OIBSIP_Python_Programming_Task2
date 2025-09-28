@@ -20,7 +20,7 @@ A **Graphical BMI Calculator** built using **Python (Tkinter, SQLite, Matplotlib
 
 [![Watch the Demo](./demo_img)](https://www.linkedin.com/posts/vishnukumar-l-h-ba6239342_oasisinfobyte-python-internship-activity-7377548593165053952-KPWz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXR7m4Bh6OFFmWyra2rkh9quq-_Sn7YCFg)
 
-*(Click the thumbnail to watch the demo on YouTube. Replace with your actual video link and thumbnail image.)*
+*(Click the thumbnail to watch the demo on LinkedIn.)*
 
 
 ## 📸 Screenshots
@@ -36,7 +36,7 @@ A **Graphical BMI Calculator** built using **Python (Tkinter, SQLite, Matplotlib
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/bmi_calculator.git
+git clone https://github.com/VishnuKumarLH/OIBSIP_Python_Programming_Task2
 cd bmi_calculator
 ```
 
